@@ -52,6 +52,7 @@ button{
     border-radius: 4px;
     cursor: pointer;
     align-self: center;
+    background-color: white;
 }
 
 .author p{
